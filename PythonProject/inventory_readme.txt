@@ -1,3 +1,6 @@
+03/03/2021
+next task edit the inventory file if there are duplicate
+
 03/02/2021
   -able to read from csv file
   - create dictionary from the csv files , keys= product, values is the price & inventory
